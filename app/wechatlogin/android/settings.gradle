@@ -1,0 +1,3 @@
+rootProject.name = 'wechatlogin'
+
+include ':app'
